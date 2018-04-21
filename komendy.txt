@@ -1,13 +1,7 @@
 How to use Autoprefixer CLI:
 
-- autoprefixer-cli -o main.prefixed.css main.css
+- autoprefixer-cli -o style.css style.prefixed.css
 
 How to use nu-html-checker:
 
-- cli [options] <files/urls ...>
- 
-  Options:
- 
-    -h, --help                   output usage information
-    -V, --version                output the version number
-    -f, --formatter <formatter>  Choose the formatter to use. (stylish, json)
+- cli --help *.html
