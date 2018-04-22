@@ -1,0 +1,568 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"tran",
+				"transition"
+			],
+			[
+				"backgro",
+				"background-position"
+			],
+			[
+				"backgrou",
+				"background-size"
+			],
+			[
+				"border",
+				"border-color"
+			],
+			[
+				"border-rad",
+				"border-radius"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"marg",
+				"margin"
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"li",
+				"link\tTag"
+			],
+			[
+				"met",
+				"meta\tTag"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"flex",
+				"flex-direction"
+			],
+			[
+				"fe",
+				"flex-start"
+			],
+			[
+				"al",
+				"align-items"
+			],
+			[
+				"f",
+				"flex-end"
+			],
+			[
+				"l",
+				"left"
+			],
+			[
+				"alig",
+				"align-content"
+			],
+			[
+				"margin",
+				"margin"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"border-bo",
+				"border-bottom-right-radius"
+			],
+			[
+				"fle",
+				"flex-wrap"
+			],
+			[
+				"a",
+				"auto"
+			],
+			[
+				"v",
+				"vertical-align"
+			],
+			[
+				"border-top",
+				"border-top-right-radius"
+			],
+			[
+				"te",
+				"text-shadow"
+			],
+			[
+				"fonts",
+				"font-size"
+			],
+			[
+				"margi",
+				"margin-left"
+			],
+			[
+				"col",
+				"color"
+			],
+			[
+				"border-r",
+				"border-right"
+			],
+			[
+				"bor",
+				"border-right-style"
+			],
+			[
+				"border-top-r",
+				"border-top-left-radius"
+			],
+			[
+				"r",
+				"right"
+			],
+			[
+				"fl",
+				"float"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"inli",
+				"inline"
+			],
+			[
+				"list",
+				"list-style-type"
+			],
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"fo",
+				"footer\tTag"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"background",
+				"background-repeat"
+			],
+			[
+				"border-b",
+				"border-bottom-style"
+			],
+			[
+				"do",
+				"double"
+			],
+			[
+				"bordert",
+				"border-top-style"
+			],
+			[
+				"borders",
+				"border-left-style"
+			],
+			[
+				"d",
+				"double"
+			],
+			[
+				"fra",
+				"frameset\tTag"
+			],
+			[
+				"font-",
+				"font-size"
+			],
+			[
+				"t",
+				"title\tAttr"
+			],
+			[
+				"b",
+				"blue"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"c",
+				"col-2"
+			],
+			[
+				"backgroun",
+				"background-color"
+			],
+			[
+				"ac",
+				"action\tAttr"
+			],
+			[
+				"backg",
+				"background-color"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "scss/style.scss",
+			"settings":
+			{
+				"buffer_size": 419,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/D/Kodilla/Portfolio/17.04.2018/css/style.css",
+			"settings":
+			{
+				"buffer_size": 16308,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "in",
+		"selected_items":
+		[
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Package Control: Install Package"
+			],
+			[
+				"scss",
+				"Set Syntax: SCSS"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"pack c",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 412.0
+	},
+	"console":
+	{
+		"height": 130.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/jmeje/Desktop/Kodilla/Bootcamp/Zadania/Zadanie 7.3 - Repozytorium zdalne/learning-git-2",
+		"/C/Users/jmeje/Desktop/Kodilla/Bootcamp/Zadania/Zadanie 7.3 - Repozytorium zdalne/learning-git-2/scss"
+	],
+	"file_history":
+	[
+		"/C/Users/jmeje/Desktop/Kodilla/Bootcamp/Zadania/Zadanie 7.3 - Repozytorium zdalne/learning-git-2/index.html",
+		"/C/Users/jmeje/Desktop/Kodilla/Bootcamp/Zadania/Zadanie 7.3 - Repozytorium zdalne/learning-git-2/scss/style.scss",
+		"/C/Users/jmeje/Desktop/Kodilla/Bootcamp/Zadania/Zadanie 7.3 - Repozytorium zdalne/learning-git-2/scss/style.css",
+		"/C/Users/jmeje/Desktop/Kodilla/Bootcamp/Moduł VI - Sass (SCSS)/Zadanie 6.2 - Właściwości i składnia SASS/style.scss",
+		"/C/Users/jmeje/Desktop/Kodilla/Bootcamp/Moduł VI - Sass (SCSS)/Zadanie 6.2 - Właściwości i składnia SASS/index.html",
+		"/C/Users/jmeje/Desktop/HTML5/Lekcje CSS/CSS_1.html",
+		"/D/Kodilla/Portfolio/learning-git/nauka-gita-2/index.html",
+		"/D/Kodilla/Portfolio/learning-git/index.html",
+		"/D/Kodilla/Portfolio/Zadanie 6.2/style.css",
+		"/D/Kodilla/Portfolio/Zadanie 6.2/index.html",
+		"/D/Kodilla/Portfolio/17.04.2018/index.html",
+		"/C/Users/jmeje/Desktop/Test/index.html",
+		"/C/Users/jmeje/Desktop/Test/style.scss",
+		"/C/Users/jmeje/Desktop/Test/style.css.map",
+		"/C/Users/jmeje/Desktop/Projekt Korund/1.2/paintball/gallery-regular-2col.html",
+		"/C/Users/jmeje/Desktop/Projekt Korund/1.2/paintball/css/style.css",
+		"/C/Users/jmeje/Desktop/Kodilla/Bootcamp/Moduł II/Zadanie 2.6/style.css",
+		"/C/Users/jmeje/Desktop/Kodilla/Bootcamp/Moduł II/Zadanie 2.6/index.html",
+		"/C/Users/jmeje/Desktop/Kodilla/Bootcamp/Moduł I/Zadanie 2.6/css.style",
+		"/C/Users/jmeje/Desktop/Kodilla/Bootcamp/Moduł I/Zadanie 2.6/index.html",
+		"/C/Users/jmeje/Desktop/Kodilla/Bootcamp/Moduł I/Zadanie 2.5/style.css",
+		"/C/Users/jmeje/Desktop/Kodilla/Bootcamp/Moduł I/Zadanie 2.5/index.html",
+		"/C/Users/jmeje/Desktop/Kodilla/Bootcamp/Moduł I/Zadanie 2.4/style.css",
+		"/C/Users/jmeje/Desktop/Kodilla/Bootcamp/Moduł I/Zadanie 2.4/index.html",
+		"/C/Users/jmeje/Desktop/Kodilla/Bootcamp/Własne projekty/11.03.2018/index.html",
+		"/C/Users/jmeje/Desktop/Kodilla/Bootcamp/Własne projekty/11.03.2018/style.css",
+		"/C/Users/jmeje/Desktop/Kodilla/Bootcamp/Moduł I/Zadanie 1.1/index.html",
+		"/C/Users/jmeje/Desktop/Kodilla/Bootcamp/Moduł I/Zadanie 1.1/style.css",
+		"/C/Users/jmeje/Desktop/HTML5/Layout strony/index.html",
+		"/C/Users/jmeje/Desktop/Projekt Korund/1.2/paintball/index.html",
+		"/C/Users/jmeje/Desktop/HTML5/Udemy/CSS Udemy/przezroczystosc-CSS.html",
+		"/C/Users/jmeje/Desktop/Projekt Korund/1.1/Paintball/themeforest-20177529-paintball-strikeball-club-premium-html5-template/Paintball_Package/paintball/js/theme.js",
+		"/C/Users/jmeje/Desktop/Paintball/themeforest-20177529-paintball-strikeball-club-premium-html5-template/Paintball_Package/paintball/index.html",
+		"/C/Users/jmeje/Desktop/HTML5/Udemy/CSS Udemy/Marginesy-wypelnienia-box-model-CSS.html",
+		"/C/Users/jmeje/Desktop/HTML5/1 Layout/Div_Div.html",
+		"/C/Users/jmeje/Desktop/HTML5/Box Model CSS HOW2HTML/index.html",
+		"/C/Users/jmeje/Desktop/HTML5/Head SEO/DOCTYPE.html",
+		"/C/Users/jmeje/Desktop/HTML5/Layout strony/Div_Div.html",
+		"/C/Users/jmeje/Desktop/HTML5/Colspan.html",
+		"/C/Users/jmeje/Desktop/HTML5/Div_Div.html",
+		"/C/Users/jmeje/Desktop/HTML5/Udemy/CSS Udemy/Zmiana-kursora-CSS.html",
+		"/C/Users/jmeje/Desktop/HTML5/Udemy/CSS Udemy/Wykaz-list-CSS.html",
+		"/C/Users/jmeje/Desktop/HTML5/Udemy/CSS Udemy/tabelki-css.html",
+		"/C/Users/jmeje/Desktop/HTML5/Udemy/CSS Udemy/obramowanie.html",
+		"/C/Users/jmeje/Desktop/HTML5/Udemy/CSS Udemy/Formatowanie tekstu.html",
+		"/C/Users/jmeje/Desktop/HTML5/Udemy/CSS Udemy/Linki.html",
+		"/C/Users/jmeje/Desktop/HTML5/Lekcje CSS/CSS Udemy/Linki.html",
+		"/C/Users/jmeje/Desktop/HTML5/Lekcje CSS/CSS Udemy/CSS_Udemy_ID_CLASS.html",
+		"/C/Users/jmeje/Desktop/HTML5/Lekcje CSS/CSS Udemy/style.css",
+		"/C/Users/jmeje/Desktop/HTML5/Lekcje CSS/CSS_3.html",
+		"/C/Users/jmeje/Desktop/HTML5/Lekcje CSS/CSS_Udemy_ID_CLASS.html",
+		"/C/Users/jmeje/Desktop/HTML5/Lekcje CSS/CSS_2.html",
+		"/C/Users/jmeje/Desktop/HTML5/Udemy/Ramki.html",
+		"/C/Users/jmeje/Desktop/HTML5/Lekcje CSS/CSS/main.css",
+		"/C/Users/jmeje/Desktop/HTML5/Formularze - Input/Formularze.html",
+		"/C/Users/jmeje/Desktop/HTML5/Lekcje CSS/main.css",
+		"/C/Users/jmeje/Desktop/HTML5/Elementy_liniowe.html",
+		"/C/Users/jmeje/Desktop/HTML5/Klasy_ID.html",
+		"/C/Users/jmeje/Desktop/HTML5/index.html",
+		"/C/Users/jmeje/Desktop/HTML5/Rowspan.html",
+		"/C/Users/jmeje/Desktop/HTML5/Sekcje_Tabel.html",
+		"/C/Users/jmeje/Desktop/HTML5/Grafika.html",
+		"/C/Users/jmeje/Desktop/HTML5/Tabele.html",
+		"/C/Users/jmeje/Desktop/HTML5/kontakt/index.html"
+	],
+	"find":
+	{
+		"height": 40.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"folders":
+	[
+		{
+			"path": "C:\\Users\\jmeje\\Desktop\\Kodilla\\Bootcamp\\Zadania\\Zadanie 7.3 - Repozytorium zdalne\\learning-git-2"
+		}
+	],
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "scss/style.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 419,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								412,
+								412
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/SCSS/SCSS.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/D/Kodilla/Portfolio/17.04.2018/css/style.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 16308,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 2091.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 176.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
